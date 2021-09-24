@@ -11,3 +11,7 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: movie
+    name: movie
+  - slug: definisi
+    name: definisi
